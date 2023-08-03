@@ -47,3 +47,4 @@ function WeatherHighlights({ weatherData }){
 };
 
 export default WeatherHighlights;
+
